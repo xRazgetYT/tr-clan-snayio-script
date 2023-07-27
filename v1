@@ -292,7 +292,7 @@ window['addEventListener']('load', () => {
         var _0xf662x34 = document['createElement']('img');
         _0xf662x34['style']['height'] = '100%';
         _0xf662x34['style']['width'] = '100%';
-        _0xf662x34['src'] = 'https://cdn.discordapp.com/attachments/1121824817528721549/1134138341198156017/E40B7F17-B7A5-4DCE-A2E3-49861D0FB80B.jpg';
+        _0xf662x34['src'] = 'https://cdn.discordapp.com/attachments/1134138043700363375/1134141246634479686/530CBD5E-1F29-472C-A1F6-8D5005327A63.jpg';
         _0xf662x34['zIndex'] = '3';
         _0xf662x33['appendChild'](_0xf662x34);
         _0xf662x34['style']['position'] = 'absolute'
