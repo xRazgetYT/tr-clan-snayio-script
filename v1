@@ -43,9 +43,9 @@ function setupUI() {
     _0xf662x8['style']['backgroundRepeat'] = 'no-repeat';
     const _0xf662x9 = document['createElement']('img');
     const _0xf662xa = document['createElement']('p');
-    const _0xf662xb = document['createTextNode']('Shazam\'s snay.io script.   ');
+    const _0xf662xb = document['createTextNode']('TR CLAN snay.io script.   ');
     const _0xf662xc = document['querySelector']('#title');
-    _0xf662xc['src'] = 'https://cdn.discordapp.com/attachments/1114383797409021992/1127586457192775700/shazam_2.png';
+    _0xf662xc['src'] = 'https://cdn.discordapp.com/attachments/1121824841641754704/1128363816741253211/Skin.png';
     _0xf662xc['style']['position'] = 'absolute';
     _0xf662xc['style']['top'] = '-5%';
     _0xf662xa['appendChild'](_0xf662xb);
@@ -292,7 +292,7 @@ window['addEventListener']('load', () => {
         var _0xf662x34 = document['createElement']('img');
         _0xf662x34['style']['height'] = '100%';
         _0xf662x34['style']['width'] = '100%';
-        _0xf662x34['src'] = 'https://github.com/GravityGYT/Script/blob/main/download.jpg?raw=true';
+        _0xf662x34['src'] = 'https://cdn.discordapp.com/attachments/1121824817528721549/1134138341198156017/E40B7F17-B7A5-4DCE-A2E3-49861D0FB80B.jpg';
         _0xf662x34['zIndex'] = '3';
         _0xf662x33['appendChild'](_0xf662x34);
         _0xf662x34['style']['position'] = 'absolute'
