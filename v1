@@ -45,7 +45,7 @@ function setupUI() {
     const _0xf662xa = document['createElement']('p');
     const _0xf662xb = document['createTextNode']('TR CLAN snay.io script.   ');
     const _0xf662xc = document['querySelector']('#title');
-    _0xf662xc['src'] = 'https://cdn.discordapp.com/attachments/1134138043700363375/1134146712370413609/5497C657-AF76-46C6-BD1E-68E5FF6BCC00.png';
+    _0xf662xc['src'] = 'https://cdn.discordapp.com/attachments/1121824817528721549/1134147794848985118/A2B7DF5D-5DB8-461A-A664-BB9E8BAFD387.png';
     _0xf662xc['style']['position'] = 'absolute';
     _0xf662xc['style']['top'] = '-25%';
     _0xf662xa['appendChild'](_0xf662xb);
