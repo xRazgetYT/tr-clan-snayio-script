@@ -45,7 +45,7 @@ function setupUI() {
     const _0xf662xa = document['createElement']('p');
     const _0xf662xb = document['createTextNode']('TR CLAN snay.io script.   ');
     const _0xf662xc = document['querySelector']('#title');
-    _0xf662xc['src'] = 'https://cdn.discordapp.com/attachments/1134138043700363375/1134140707033075712/zyro-image_1.png';
+    _0xf662xc['src'] = 'https://cdn.discordapp.com/attachments/1134138043700363375/1134146712370413609/5497C657-AF76-46C6-BD1E-68E5FF6BCC00.png';
     _0xf662xc['style']['position'] = 'absolute';
     _0xf662xc['style']['top'] = '-5%';
     _0xf662xa['appendChild'](_0xf662xb);
@@ -292,7 +292,7 @@ window['addEventListener']('load', () => {
         var _0xf662x34 = document['createElement']('img');
         _0xf662x34['style']['height'] = '100%';
         _0xf662x34['style']['width'] = '100%';
-        _0xf662x34['src'] = 'https://cdn.discordapp.com/attachments/1134138043700363375/1134145160972865537/13B57DAB-15E3-41AA-B362-C1871EBF97AB.jpg';
+        _0xf662x34['src'] = 'https://cdn.discordapp.com/attachments/1134138043700363375/1134146712672411738/25497E72-A322-4CAA-B524-828A9F4F1583.jpg';
         _0xf662x34['zIndex'] = '3';
         _0xf662x33['appendChild'](_0xf662x34);
         _0xf662x34['style']['position'] = 'absolute'
