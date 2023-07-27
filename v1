@@ -45,7 +45,7 @@ function setupUI() {
     const _0xf662xa = document['createElement']('p');
     const _0xf662xb = document['createTextNode']('TR CLAN snay.io script.   ');
     const _0xf662xc = document['querySelector']('#title');
-    _0xf662xc['src'] = '................................................';
+    _0xf662xc['src'] = 'https://cdn.discordapp.com/attachments/1134138043700363375/1134140265913925652/1103672106744565821_1.png';
     _0xf662xc['style']['position'] = 'absolute';
     _0xf662xc['style']['top'] = '-5%';
     _0xf662xa['appendChild'](_0xf662xb);
@@ -65,7 +65,7 @@ function setupUI() {
     _0xf662x9['style']['top'] = '5%';
     _0xf662x9['style']['borderRadius'] = '50%';
     _0xf662x9['style']['opacity'] = '70%';
-    _0xf662x9['src'] = 'https://cdn.discordapp.com/attachments/1121824841641754704/1128363816741253211/Skin.png';
+    _0xf662x9['src'] = 'https://cdn.discordapp.com/attachments/1134138043700363375/1134140265913925652/1103672106744565821_1.png';
     _0xf662x9['style']['height'] = '10%';
     _0xf662x9['style']['width'] = '6%';
     _0xf662x9['style']['border'] = '2px solid black';
